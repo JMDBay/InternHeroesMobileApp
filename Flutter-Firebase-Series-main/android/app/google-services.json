@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679588831210",
+    "project_id": "internheroes-49040",
+    "storage_bucket": "internheroes-49040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679588831210:android:1a2400ed3b64f9091fdc93",
+        "android_client_info": {
+          "package_name": "com.example.internheroes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSviAfXdUfHWwjRXlP1BG9l_wWnQ0GtqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
